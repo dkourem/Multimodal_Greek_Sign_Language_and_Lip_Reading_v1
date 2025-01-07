@@ -1,9 +1,9 @@
-# Greek-Multimodal-Speech-Dataset-Corpus-v1
-The Greek-Multimodal-Speech-Dataset-Corpus-v1 is a comprehensive dataset designed for research and development in multimodal machine learning, speech recognition, and accessibility technologies.
+# Multimodal_Greek_Sign_Language_and_Lip_Reading_v1
+The Multimodal_Greek_Sign_Language_and_Lip_Reading_v1 is a comprehensive dataset designed for research and development in multimodal machine learning, speech recognition, and accessibility technologies.
 
 # Description
 
-The **Greek-Multimodal-Speech-Dataset-Corpus-v1** is a comprehensive dataset designed for research and development in multimodal machine learning, speech recognition, and accessibility technologies. This dataset focuses on the Greek language and provides high-quality, synchronized data across three modalities:
+The **Multimodal_Greek_Sign_Language_and_Lip_Reading_v1** is a comprehensive dataset designed for research and development in multimodal machine learning, speech recognition, and accessibility technologies. This dataset focuses on the Greek language and provides high-quality, synchronized data across three modalities:
 
 - **Speech**: High-resolution audio recordings of spoken Greek.
 - **Lip Movement**: Video recordings capturing detailed lip movements for lip-sync and speech alignment tasks.
@@ -34,9 +34,11 @@ Dimitris Kouremenos, Klimis Ntalianis. (2024). *Greek-Multimodal-Speech-Dataset-
 ### Acknowledgments
 Special thanks to the contributors, linguists, and accessibility experts involved in the dataset creation process.
 
+### Dataset repository
+The dataset is located at *https://huggingface.co/datasets/dkourem/Multimodal_Greek_Sign_Language_and_Lip_Reading*
 
 ## License and Usage Restrictions
-The **Greek-Multimodal-Speech-Dataset-Corpus-v1** is protected under the following terms:
+The **Multimodal_Greek_Sign_Language_and_Lip_Reading_v1** is protected under the following terms:
 
 ### Copyright
 Copyright © 2024 Dr. Dimitris Kouremenos and Prof. Klimis Ntalianis.  
