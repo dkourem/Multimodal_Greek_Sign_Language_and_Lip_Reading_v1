@@ -15,12 +15,14 @@ The **Greek-Multimodal-Speech-Dataset-Corpus-v1** is a comprehensive dataset des
 - Text-to-Speech (TTS) and Speech-to-Text (STT) applications
 - Accessibility tools for the deaf and hard of hearing
 - Multimodal sentiment analysis and natural language processing
+-  Sign Language recogntion and translations tasks (SLR,SLT). 
 
 ### Key Features:
 - **Language**: Greek (Hellenic)
 - **Format**: Includes `.wav` for audio, `.mp4` for video, and `.srt/.json` for subtitles and timestamps.
 - **High Quality**: Captured in a professional studio environment for maximum clarity and precision.
 - **Accessibility**: Designed with a focus on inclusivity and use in accessibility research.
+-  **Sign Language**: High quality Video Greek Sign Language recordings capturing detailed sign language and facial expressions with synced subtitles and audio speech translation. 
 
 ### Versioning
 This is version **1.0** of the dataset. Future versions may include additional speakers, dialects, or extended annotations.
